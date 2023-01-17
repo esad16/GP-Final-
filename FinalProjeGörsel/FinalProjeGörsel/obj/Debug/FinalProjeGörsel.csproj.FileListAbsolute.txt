@@ -1,0 +1,48 @@
+C:\Users\kerem\source\repos\FinalProjeGörsel\FinalProjeGörsel\bin\Debug\FinalProjeGörsel.exe.config
+C:\Users\kerem\source\repos\FinalProjeGörsel\FinalProjeGörsel\bin\Debug\FinalProjeGörsel.exe
+C:\Users\kerem\source\repos\FinalProjeGörsel\FinalProjeGörsel\bin\Debug\FinalProjeGörsel.pdb
+C:\Users\kerem\source\repos\FinalProjeGörsel\FinalProjeGörsel\bin\Debug\EntityFramework.dll
+C:\Users\kerem\source\repos\FinalProjeGörsel\FinalProjeGörsel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kerem\source\repos\FinalProjeGörsel\FinalProjeGörsel\bin\Debug\EntityFramework.xml
+C:\Users\kerem\source\repos\FinalProjeGörsel\FinalProjeGörsel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kerem\source\repos\FinalProjeGörsel\FinalProjeGörsel\obj\Debug\FinalProjeGörsel.csproj.AssemblyReference.cache
+C:\Users\kerem\source\repos\FinalProjeGörsel\FinalProjeGörsel\obj\Debug\FinalProjeGörsel.csproj.SuggestedBindingRedirects.cache
+C:\Users\kerem\source\repos\FinalProjeGörsel\FinalProjeGörsel\obj\Debug\FinalProjeGörsel.AnaMenü.resources
+C:\Users\kerem\source\repos\FinalProjeGörsel\FinalProjeGörsel\obj\Debug\FinalProjeGörsel.DersListele.resources
+C:\Users\kerem\source\repos\FinalProjeGörsel\FinalProjeGörsel\obj\Debug\FinalProjeGörsel.Dersİslem.resources
+C:\Users\kerem\source\repos\FinalProjeGörsel\FinalProjeGörsel\obj\Debug\FinalProjeGörsel.OgrenciDersListele.resources
+C:\Users\kerem\source\repos\FinalProjeGörsel\FinalProjeGörsel\obj\Debug\FinalProjeGörsel.OgrenciDersİslemleri.resources
+C:\Users\kerem\source\repos\FinalProjeGörsel\FinalProjeGörsel\obj\Debug\FinalProjeGörsel.OgrenciListele.resources
+C:\Users\kerem\source\repos\FinalProjeGörsel\FinalProjeGörsel\obj\Debug\FinalProjeGörsel.Ogrenciİslem.resources
+C:\Users\kerem\source\repos\FinalProjeGörsel\FinalProjeGörsel\obj\Debug\FinalProjeGörsel.PersonelListele.resources
+C:\Users\kerem\source\repos\FinalProjeGörsel\FinalProjeGörsel\obj\Debug\FinalProjeGörsel.Personelİslemleri.resources
+C:\Users\kerem\source\repos\FinalProjeGörsel\FinalProjeGörsel\obj\Debug\FinalProjeGörsel.Properties.Resources.resources
+C:\Users\kerem\source\repos\FinalProjeGörsel\FinalProjeGörsel\obj\Debug\FinalProjeGörsel.csproj.GenerateResource.cache
+C:\Users\kerem\source\repos\FinalProjeGörsel\FinalProjeGörsel\obj\Debug\FinalProjeGörsel.csproj.CoreCompileInputs.cache
+C:\Users\kerem\source\repos\FinalProjeGörsel\FinalProjeGörsel\obj\Debug\FinalProjeGörsel.csproj.CopyComplete
+C:\Users\kerem\source\repos\FinalProjeGörsel\FinalProjeGörsel\obj\Debug\FinalProjeGörsel.exe
+C:\Users\kerem\source\repos\FinalProjeGörsel\FinalProjeGörsel\obj\Debug\FinalProjeGörsel.pdb
+C:\Users\M.Esad İlhan\Desktop\FinalProjeGörsel\FinalProjeGörsel\bin\Debug\FinalProjeGörsel.exe.config
+C:\Users\M.Esad İlhan\Desktop\FinalProjeGörsel\FinalProjeGörsel\bin\Debug\FinalProjeGörsel.exe
+C:\Users\M.Esad İlhan\Desktop\FinalProjeGörsel\FinalProjeGörsel\bin\Debug\FinalProjeGörsel.pdb
+C:\Users\M.Esad İlhan\Desktop\FinalProjeGörsel\FinalProjeGörsel\bin\Debug\EntityFramework.dll
+C:\Users\M.Esad İlhan\Desktop\FinalProjeGörsel\FinalProjeGörsel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\M.Esad İlhan\Desktop\FinalProjeGörsel\FinalProjeGörsel\bin\Debug\EntityFramework.xml
+C:\Users\M.Esad İlhan\Desktop\FinalProjeGörsel\FinalProjeGörsel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\M.Esad İlhan\Desktop\FinalProjeGörsel\FinalProjeGörsel\obj\Debug\FinalProjeGörsel.csproj.AssemblyReference.cache
+C:\Users\M.Esad İlhan\Desktop\FinalProjeGörsel\FinalProjeGörsel\obj\Debug\FinalProjeGörsel.csproj.SuggestedBindingRedirects.cache
+C:\Users\M.Esad İlhan\Desktop\FinalProjeGörsel\FinalProjeGörsel\obj\Debug\FinalProjeGörsel.AnaMenü.resources
+C:\Users\M.Esad İlhan\Desktop\FinalProjeGörsel\FinalProjeGörsel\obj\Debug\FinalProjeGörsel.DersListele.resources
+C:\Users\M.Esad İlhan\Desktop\FinalProjeGörsel\FinalProjeGörsel\obj\Debug\FinalProjeGörsel.Dersİslem.resources
+C:\Users\M.Esad İlhan\Desktop\FinalProjeGörsel\FinalProjeGörsel\obj\Debug\FinalProjeGörsel.OgrenciDersListele.resources
+C:\Users\M.Esad İlhan\Desktop\FinalProjeGörsel\FinalProjeGörsel\obj\Debug\FinalProjeGörsel.OgrenciDersİslemleri.resources
+C:\Users\M.Esad İlhan\Desktop\FinalProjeGörsel\FinalProjeGörsel\obj\Debug\FinalProjeGörsel.OgrenciListele.resources
+C:\Users\M.Esad İlhan\Desktop\FinalProjeGörsel\FinalProjeGörsel\obj\Debug\FinalProjeGörsel.Ogrenciİslem.resources
+C:\Users\M.Esad İlhan\Desktop\FinalProjeGörsel\FinalProjeGörsel\obj\Debug\FinalProjeGörsel.PersonelListele.resources
+C:\Users\M.Esad İlhan\Desktop\FinalProjeGörsel\FinalProjeGörsel\obj\Debug\FinalProjeGörsel.Personelİslemleri.resources
+C:\Users\M.Esad İlhan\Desktop\FinalProjeGörsel\FinalProjeGörsel\obj\Debug\FinalProjeGörsel.Properties.Resources.resources
+C:\Users\M.Esad İlhan\Desktop\FinalProjeGörsel\FinalProjeGörsel\obj\Debug\FinalProjeGörsel.csproj.GenerateResource.cache
+C:\Users\M.Esad İlhan\Desktop\FinalProjeGörsel\FinalProjeGörsel\obj\Debug\FinalProjeGörsel.csproj.CoreCompileInputs.cache
+C:\Users\M.Esad İlhan\Desktop\FinalProjeGörsel\FinalProjeGörsel\obj\Debug\FinalProjeGörsel.csproj.CopyComplete
+C:\Users\M.Esad İlhan\Desktop\FinalProjeGörsel\FinalProjeGörsel\obj\Debug\FinalProjeGörsel.exe
+C:\Users\M.Esad İlhan\Desktop\FinalProjeGörsel\FinalProjeGörsel\obj\Debug\FinalProjeGörsel.pdb

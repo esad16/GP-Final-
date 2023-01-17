@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="FinalModelStoreContainer" CdmEntityContainer="FinalEntities">
+    <EntitySetMapping Name="Ders">
+      <EntityTypeMapping TypeName="FinalModel.Ders">
+        <MappingFragment StoreEntitySet="Ders">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Ders_Adı" ColumnName="Ders_Adı" />
+          <ScalarProperty Name="Ders_Kredisi" ColumnName="Ders_Kredisi" />
+          <ScalarProperty Name="Okul_Yönetim_Id" ColumnName="Okul_Yönetim_Id" />
+          <ScalarProperty Name="Ders_Rengi" ColumnName="Ders_Rengi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Ogrenci">
+      <EntityTypeMapping TypeName="FinalModel.Ogrenci">
+        <MappingFragment StoreEntitySet="Ogrenci">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Ad_Soyad" ColumnName="Ad_Soyad" />
+          <ScalarProperty Name="Kayıt_Tarihi" ColumnName="Kayıt_Tarihi" />
+          <ScalarProperty Name="Öğrenci_No" ColumnName="Öğrenci_No" />
+          <ScalarProperty Name="Doğum_Tarihi" ColumnName="Doğum_Tarihi" />
+          <ScalarProperty Name="Bölümü" ColumnName="Bölümü" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="OgrenciDers">
+      <EntityTypeMapping TypeName="FinalModel.OgrenciDers">
+        <MappingFragment StoreEntitySet="OgrenciDers">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Ders_Id" ColumnName="Ders_Id" />
+          <ScalarProperty Name="Ogrenci_Id" ColumnName="Ogrenci_Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Personel">
+      <EntityTypeMapping TypeName="FinalModel.Personel">
+        <MappingFragment StoreEntitySet="Personel">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Ad_Soyad" ColumnName="Ad_Soyad" />
+          <ScalarProperty Name="Görevi" ColumnName="Görevi" />
+          <ScalarProperty Name="Yönetim_Tipi" ColumnName="Yönetim_Tipi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="FinalModel.sysdiagrams">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
